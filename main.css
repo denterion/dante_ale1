@@ -1,0 +1,45 @@
+.NameAbsaz{
+    color: rgba(41, 2, 131, 0.658);
+    text-align: center;
+    display: block;
+}
+.Display_img{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.img_drof{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.main_text{
+    justify-content: left;
+    color: blue;
+}
+.Nature{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    color: rgb(156, 113, 236)
+}
+.Text_one{
+    color: rgb(65, 5, 230);
+    text-align: center;
+    display: block;
+}
+.Text_two{
+    color: rgb(65, 5, 230);
+    text-align: center;
+    display: block;
+}
+.Text_free{
+    color: black;
+    text-align: center;
+    display: block;
+}
+.Autor{
+    color: green;
+    text-align: center;
+    display: block;
+}
